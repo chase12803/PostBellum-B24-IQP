@@ -3,27 +3,6 @@ from bs4 import BeautifulSoup
 import re
 import json
 
-# SerpAPI configuration
-SEARCH_ENGINE = "https://serpapi.com/search.json"
-SEARCH_QUERY = '"contact" OR "email" AND "oral history"'
-RESULTS_PER_PAGE = 10
-MAX_PAGES = 10
-
-def get_google_search_results(query, api_key, num_results=RESULTS_PER_PAGE, start=0):
-    """Fetch search results from Google using SerpAPI."""
-    params = {
-        "q": query,
-        "api_key": api_key,
-        "num": num_results,
-        "start": start
-    }
-    response = requests.get(SEARCH_ENGINE, params=params)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Error fetching search results: {response.status_code}")
-        return None
-
 def scrape_emails_from_url(url):
     """Scrape email addresses from a given URL."""
     try:
@@ -50,13 +29,6 @@ def scrape_emails_from_url(url):
         return ["failed"]
 
 def main():
-    # try:
-    #     with open('api_key.txt', 'r') as file:
-    #         SERP_API_KEY = file.read()
-    # except FileNotFoundError:
-    #     print("API key file not found.")
-    #     input("Press enter to exit.")
-    #     exit()
     
     urls = []
     
@@ -70,28 +42,6 @@ def main():
         
     urls = [x.strip() for x in urls]   
     email_data = []
-    
-    # for page_num in range(MAX_PAGES):
-    #     start = page_num * RESULTS_PER_PAGE
-    #     print(f"Fetching results for page {page_num + 1}...")
-        
-    #     # Fetch search results from SerpAPI
-    #     search_results = get_google_search_results(SEARCH_QUERY, SERP_API_KEY, num_results=RESULTS_PER_PAGE, start=start)
-        
-    #     if not search_results or "organic_results" not in search_results:
-    #         print("No search results fetched. Exiting.")
-    #         break
-
-    #     # Process search results
-    #     for result in search_results.get("organic_results", []):
-    #         link = result.get("link")
-    #         print(f"Processing: {link}")
-    #         # Scrape emails from the webpage
-    #         emails = scrape_emails_from_url(link)
-    #         email_data.append({
-    #             "webpage": link,
-    #             "emails": emails
-    #         })
     
     for url in urls:
         emails = scrape_emails_from_url(url)
