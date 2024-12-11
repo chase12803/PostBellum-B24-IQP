@@ -1,0 +1,13 @@
+[
+    {
+        "correct": [],
+        "labeled": ["Trenčiansky kraj","Nitriansky kraj","Žilinský kraj","Banskobystrický kraj","Prešovský kraj","Trnavský kraj","Bratislavský kraj"]
+    },
+	{
+        "correct": ["Královéhradecký kraj"],
+        "labeled": ["Hradec Králové Region", "Hradec Králové"]
+    }
+]
+
+
+

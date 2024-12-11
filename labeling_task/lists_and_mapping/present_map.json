@@ -1,0 +1,47 @@
+[
+    {
+        "correct_past": [],
+        "correct_present": ["Russia"],
+        "labeled": ["Chechnya", "Ingushetia", "North Ossetia-Alania"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["United States"],
+        "labeled": ["Guam", "United States of America", "USA", "Puerto Rico"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["DR Congo"],
+        "labeled": ["Democratic Republic of the Congo", "Congo, Democratic Republic of the"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Turkey"],
+        "labeled": ["Türkiye"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Czechia"],
+        "labeled": ["Czech Republic"]
+    },
+	{
+        "correct_past": ["Soviet Union"],
+        "correct_present": [],
+        "labeled": ["Soviet Union"]
+    },
+	{
+        "correct_past": [],
+        "correct_present": ["United Kingdom"],
+        "labeled": ["England"]
+    },
+	{
+        "correct_past": [],
+        "correct_present": ["Congo Republic"],
+        "labeled": ["Republic of the Congo"]
+    },
+	{
+        "correct_past": [],
+        "correct_present": ["France"],
+        "labeled": ["Mayotte"]
+    }	
+]

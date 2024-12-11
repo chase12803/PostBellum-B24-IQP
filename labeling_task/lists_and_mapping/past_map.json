@@ -1,0 +1,242 @@
+[
+    {
+        "correct_past": [],
+        "correct_present": ["Germany"],
+        "labeled": ["German Reich", "German Empire", "German Third Reich", "Germany", "Prussia", "Prussian Silesia", "German Silesia", "Third Reich"]
+    },
+    {
+        "correct_past": ["East Germany", "Soviet territories"],
+        "correct_present": [],
+        "labeled": ["German Democratic Republic", "GDR"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Germany", "Poland"],
+        "labeled": ["Free City of Danzig"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["France"],
+        "labeled": ["Vichy France", "French Fourth Republic"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": [],
+        "labeled": ["USSR"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Russia"],
+        "labeled": ["Russian Federation"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Russia"],
+        "labeled": ["Russian SFSR", "Tsardom of Russia", "RSFSR", "Chechen-Ingush ASSR", "Tsarist Russia", "Russian Empire", "Russian Soviet Federative Socialist Republic"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Belarus"],
+        "labeled": ["Byelorussian SSR", "Belarussian Soviet Socialist Republic", "Byelorussian Soviet Socialist Republic"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Ukraine"],
+        "labeled": ["UkSSR", "Ukraine (Soviet Socialist Republic)", "Ukraine - Soviet Socialist Republic", "Ukrainian SSR", "Ukrainian Soviet Socialist Republic"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Georgia"],
+        "labeled": ["Georgian SSR", "Georgian Soviet Socialist Republic"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Lithuania"],
+        "labeled": ["Lithuania SSR", "Lithuanian Soviet Socialist Republic"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Uzbekistan"],
+        "labeled": ["Uzbek SSR"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Turkmenistan"],
+        "labeled": ["Turkmen SSR"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Kyrgyzstan"],
+        "labeled": ["Kyrgyz SSR"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Kazakhstan"],
+        "labeled": ["Khazakh SSR", "Kazakh SSR"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Azerbaijan"],
+        "labeled": ["Azerbaijan SSR", "Soviet Azerbaijan"]
+    },
+    {
+        "correct_past": ["Soviet Union"],
+        "correct_present": ["Armenia"],
+        "labeled": ["Soviet Armenia", "Armenian Soviet Socialist Republic", "Armenian SSR"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Iran"],
+        "labeled": ["Persia"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Afghanistan"],
+        "labeled": ["Kingdom of Afghanistan", "Afghanistan"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["DR Congo"],
+        "labeled": ["Zaire", "Belgian Congo"]
+    },
+    {
+        "correct_past": ["Czechoslovakia"],
+        "correct_present": ["Czechia"],
+        "labeled": ["Imperial County of Sudetenland", "Bohemia"]
+    },
+    {
+        "correct_past": ["Czechoslovakia"],
+        "correct_present": ["Slovakia"],
+        "labeled": ["Slovak State", "Slovak Republic (1939-1945)", "First Slovak Republic"]
+    },
+    {
+        "correct_past": ["Czechoslovakia"],
+        "correct_present": [],
+        "labeled": ["Czechoslovak Republic", "Czech and Slovak Socialist Republic"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Angola"],
+        "labeled": ["Angola"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Poland"],
+        "labeled": ["Poland (1918–39)", "Second Polish Republic", "Eastern Poland", "Poland (1918-1939)", "Poland (pre-1945 borders)", "Poland (Second Polish Republic)", "Poland", "Poland (Second Republic)", "Polish People's Republic"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Poland", "Nazi territories"],
+        "labeled": ["General Government"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["**UNKNOWN**"],
+        "labeled": ["Subcarpathian Russia", "Subcarpathian Rus", "Indochina", "Galicia", "Carpatho-Ukraine", "Oriente", "Warsaw Pact", "Ottoman Empire", "Subcarpathian Ruthenia", "Habsburg Monarchy", "Independent State of Croatia", "Carpathian Ruthenia", "Transcarpathian Ruthenia", "Austro-Hungarian Empire", "Austro-Hungarian Monarchy", "Austria-Hungary", "Subcarpathian Rus'", "NDH"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Palestine"],
+        "labeled": ["Mandatory Palestine", "Palestine", "British Mandate of Palestine"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Myanmar"],
+        "labeled": ["Burma"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Italy"],
+        "labeled": ["Kingdom of Italy", "Italy"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Yugoslavia"],
+        "labeled": ["Kingdom of Yugoslavia", "Kingdom of Serbs, Croats, and Slovenes", "Kingdom of Serbs, Croats, and Slovenians", "Kingdom of Serbs, Croats and Slovenes"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Austria"],
+        "labeled": ["Austria"]
+    },
+    {
+        "correct_past": ["Soviet territories"],
+        "correct_present": ["Romania"],
+        "labeled": ["Socialist Republic of Romania"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Romania"],
+        "labeled": ["Rumania", "Romania"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Hungary"],
+        "labeled": ["Hungary Kingdom", "Kingdom of Hungary", "Hungary"]
+    },
+    {
+        "correct_past": ["Soviet territories"],
+        "correct_present": ["Hungary"],
+        "labeled": ["Hungarian People's Republic"]
+    },
+    {
+        "correct_past": ["North Vietnam"],
+        "correct_present": ["Vietnam"],
+        "labeled": ["Democratic Republic of Vietnam"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["China"],
+        "labeled": ["Tibet"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Bulgaria"],
+        "labeled": ["Kingdom of Bulgaria"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Cuba"],
+        "labeled": ["Cuba"]
+    },
+    {
+        "correct_past": ["Nazi territories", "Czechoslovakia"],
+        "correct_present": ["Slovakia"],
+        "labeled": ["First Slovak Republic"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Poland"],
+        "labeled": ["Free City of Danzig"]
+    },
+    {
+        "correct_past": [],
+        "correct_present": ["Croatia"],
+        "labeled": ["NDH"]
+    },
+    {
+        "correct_past": ["Czechoslovakia", "Soviet territories"],
+        "correct_present": [],
+        "labeled": ["ČSSR"]
+    },
+    {
+        "correct_past": ["East Germany", "Soviet territories"],
+        "correct_present": ["Germany"],
+        "labeled": ["East Germany"]
+    },
+    {
+        "correct_past": ["West Germany"],
+        "correct_present": ["Germany"],
+        "labeled": ["West Germany"]
+    },
+    {
+        "correct_past": ["North Vietnam"],
+        "correct_present": ["Vietnam"],
+        "labeled": ["North Vietnam"]
+    },
+    {
+        "correct_past": ["South Vietnam"],
+        "correct_present": ["Vietnam"],
+        "labeled": ["South Vietnam"]
+    }
+]
