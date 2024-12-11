@@ -1,0 +1,5 @@
+The txts are the lists of all unique items of the three corresponding types that were in the model's final label output.
+
+The maps were created by looking through these to find what countries should be converted to. For example, in past_map, if something has "German Democratic Republic", we standardize it to "East Germany" to make all entries match; also, at the end we have a rule making sure that all East Germany entries have "Germany" in their present field, and "Soviet territories" in their past field (this category is meant to apply to Soviet-aligned countries like Communist Czechoslovakia). Other examples are the removal of Slovakian territories from Czech regions, and ensuring various countries are properly placed in the present field rather than the past field.
+
+`apply_map.py` takes in a CSV, applies the map, and saves to a new CSV file.
